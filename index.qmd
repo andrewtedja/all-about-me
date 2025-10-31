@@ -1,6 +1,6 @@
 # Selamat Berjumpa {.unnumbered}
 
-![About Me](images/ATDJ.jpg){width=95%}
+![About Me](images/ATDJ.png){width=95%}
 
 Hai semua! 👋
 
