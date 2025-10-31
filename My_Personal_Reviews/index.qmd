@@ -1,19 +1,103 @@
 # UTS-5 My Personal Reviews
 
-UTS-5 adalah bagian akhir dari rangkaian tugas ini, berisi proses *self-assessment* dan *peer-assessment* berdasarkan rubrik UTS-1 hingga UTS-4.
+## 6.1 Identifikasi
+**Nama Mahasiswa dan NIM:** Andrew Tedjapratama (13523141)  
+**Nama Penilai:** Self-Assessment  
 
 ---
 
-## Cara Saya Melakukan Review
-Saya melakukan *self-assessment* menggunakan ChatGPT dengan prompt:
-> "Self assess UTS-1 sampai UTS-4 dari URL 'https://ii-2100.github.io/all-about-me/'"
-
-AI menilai setiap tugas berdasarkan rubrik resmi, dan hasilnya saya catat ke dalam **Lembar Skor UTS-5 (baris pertama)**.  
-Untuk *peer-assessment*, saya menilai dua teman dari daftar dosen secara manual tanpa bantuan AI, dan menuliskan skor mereka di baris kedua dan ketiga.
-
-[Download Lembar Skor UTS-5 saya di sini](UTS-5/skor_uts.xlsx)
+## 6.2 Tinjauan Umum
+Seluruh rangkaian UTS-1 sampai UTS-4 bagi saya adalah refleksi bertahap tentang bagaimana berpikir dan berkomunikasi secara lebih jujur dan bermakna.  
+UTS-1 menunjukkan pemahaman diri dan nilai personal, UTS-2 menggambarkan sisi emosional dan spiritualitas saya, UTS-3 memperlihatkan empati interpersonal, dan UTS-4 membentuk disiplin berpikir terstruktur.  
+Dari keempatnya, saya melihat konsistensi: setiap karya berangkat dari kejujuran, berpijak pada refleksi, dan tetap menjaga logika berpikir yang rapi.  
 
 ---
+
+## 6.3 Tinjauan Spesifik
+
+### 6.3.1 UTS-1 — *All About Me*
+**Konten:** Esai reflektif dengan narasi personal yang logis, tenang, dan kuat secara nilai. Menggabungkan rasionalitas dan spiritualitas tanpa terkesan menggurui.  
+**Penilaian (Rubrik Tabel 2):**  
+- Orisinalitas     : 5  
+- Keterlibatan     : 5  
+- Humor            : 3  
+- Wawasan          : 5  
+**Skor rata-rata:** (5 + 5 + 3 + 5) / 4 = **4.5 / 5.00**  
+**Saran:** Sudah solid dan berkarakter. Bisa diperkuat dengan sedikit variasi tone agar lebih dinamis, tapi arah refleksi sudah matang.
+
+---
+
+### 6.3.2 UTS-2 — *My Song for You*
+**Konten:** Lagu *Con Te Partirò* (Andrea Bocelli) dijadikan refleksi spiritual dan eksistensial tentang perpisahan dan keteguhan iman. Refleksinya puitis, bermakna, dan menunjukkan kedewasaan berpikir.  
+**Penilaian (Rubrik Tabel 3):**  
+- Orisinalitas     : 5  
+- Keterlibatan     : 5  
+- Humor            : 1  
+- Inspirasi         : 5  
+**Skor rata-rata:** (5 + 5 + 1 + 5) / 4 = **4.0 / 5.00**  
+**Saran:** Pemilihan lagu dan interpretasi sangat kuat. Tambahkan sedikit konteks pribadi agar hubungan antara makna lagu dan pengalaman hidup lebih terasa natural.
+
+---
+
+### 6.3.3 UTS-3 — *My Stories for You*
+**Konten:** Narasi reflektif kepada keluarga, teman, dan guru yang menggambarkan empati dan rasa terima kasih dengan bahasa yang jujur, tenang, dan tidak berlebihan.  
+**Penilaian (Rubrik Tabel 4):**  
+- Orisinalitas     : 5  
+- Keterlibatan     : 5  
+- Pengembangan Narasi : 5  
+- Inspirasi         : 5  
+**Skor rata-rata:** (5 + 5 + 5 + 5) / 4 = **5.0 / 5.00**  
+**Saran:** Karya paling kuat dan paling otentik secara emosional. Gaya narasinya alami dan sangat efektif menyampaikan rasa hormat tanpa melodrama.
+
+---
+
+### 6.3.4 UTS-4 — *My SHAPE*
+**Konten:** Piagam diri terstruktur yang merangkum misi hidup, kekuatan utama, nilai inti, dan pengalaman pribadi. Lengkap dan realistis, memperlihatkan kejelasan arah hidup serta konsistensi nilai.  
+**Penilaian (Rubrik Tabel 5):**  
+- Orisinalitas     : 5  
+- Keterlibatan     : 4  
+- Pengembangan Narasi : 4  
+- Inspirasi         : 5  
+**Skor rata-rata:** (5 + 4 + 4 + 5) / 4 = **4.5 / 5.00**  
+**Saran:** Struktur sudah sangat rapi. Hanya perlu sedikit tambahan narasi transisi agar tiap elemen SHAPE terasa lebih mengalir seperti cerita.
+
+---
+
+### 6.3.5 UTS-5 — *My Personal Review*
+**Konten:** Self-assessment reflektif yang jujur dan argumentatif dengan analisis berbasis rubrik. Menunjukkan kemampuan evaluasi diri yang matang.  
+**Penilaian (Rubrik Tabel 6):**  
+- Pemahaman Konsep     : 5  
+- Analisis Kritis Pesan   : 5  
+- Argumentasi (Logos)    : 5  
+- Etos & Empati           : 5  
+- Rekomendasi Perbaikan : 4  
+**Skor rata-rata:** (5 + 5 + 5 + 5 + 4) / 5 = **4.8 / 5.00**  
+**Saran:** Analisis sudah sangat objektif dan matang. Bisa diperkuat dengan refleksi ringkas tentang perubahan karakter selama proses UTS 1–4.
+
+---
+
+## 6.4 Perhitungan Skor CPMK (Ringkasan)
+
+| UTS  | Skor (dari 5) | CPMK-2 (Bobot) | Kontribusi |
+|:--|:--:|:--:|:--:|
+| UTS-1 | 4.50 | 6 | (4.50 / 5) × 6 = 5.40 |
+| UTS-2 | 4.00 | 7 | (4.00 / 5) × 7 = 5.60 |
+| UTS-3 | 5.00 | 7 | (5.00 / 5) × 7 = 7.00 |
+| UTS-4 | 4.50 | 6 | (4.50 / 5) × 6 = 5.40 |
+| UTS-5 | 4.80 | 10 | (4.80 / 5) × 10 = 9.60 |
+| **Total** | | | **33.00 / 36 = 91.7% (A)** |
+
+---
+
+## 6.5 Kesimpulan Singkat
+UTS-1 hingga UTS-5 bukan sekadar dokumentasi perjalanan akademik, tapi catatan bagaimana saya belajar mengenal diri sendiri.  
+UTS-1 membuka refleksi tentang makna hidup dan nilai; UTS-2 menguatkan sisi spiritual; UTS-3 menegaskan empati dan hubungan personal; UTS-4 menyatukan semuanya ke dalam struktur yang logis dan terarah.  
+UTS-5 akhirnya menjadi cermin dari semua proses itu — bukan untuk mencari nilai, tapi memastikan bahwa saya berkembang sebagai pribadi yang berpikir kritis, berempati, dan tetap punya arah hidup yang jelas.
+
+---
+
+**Final Score: 91.7% (A)** — *Reflektif, konsisten, dan memenuhi rubrik dengan kedalaman dan keseimbangan.*
+
 
 ## Refleksi
 Melalui proses ini saya belajar melihat tugas saya sendiri secara lebih objektif, dan menghargai proses orang lain.  
