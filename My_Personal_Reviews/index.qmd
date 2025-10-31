@@ -1,7 +1,7 @@
 # UTS-5 My Personal Reviews
 
 ## 6.1 Identifikasi
-**Nama Mahasiswa dan NIM:** Andrew Tedjapratama (13523141)  
+**Nama Mahasiswa dan NIM:** Andrew Tedjapratama (13523148)  
 **Nama Penilai:** Self-Assessment  
 
 ---
@@ -87,6 +87,9 @@ Dari keempatnya, saya melihat konsistensi: setiap karya berangkat dari kejujuran
 | UTS-5 | 4.80 | 10 | (4.80 / 5) × 10 = 9.60 |
 | **Total** | | | **33.00 / 36 = 91.7% (A)** |
 
+**Download file skor (untuk bukti & laporan):**  
+<a href="UTS-5_SkorPeerAssesment.csv" download>Download CSV Ringkasan</a>  
+<a href="UTS-5_SkorPeerAssesment.xlsx" download>Download Excel Ringkasan</a>
 ---
 
 ## 6.5 Kesimpulan Singkat

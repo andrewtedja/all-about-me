@@ -2,9 +2,9 @@ project:
     type: book
     output-dir: docs
     resources:
-        - "My_Personal_Reviews/UTS-5_My_Personal_Reviews.xlsx"
-        - "My_Personal_Reviews/UTS-5_My_Personal_Reviews.csv"
-        - "My_Personal_Reviews/UTS-5_My_Personal_Reviews.htm"
+        - "UTS-5_SkorPeerAssesment.xlsx"
+        - "UTS-5_SkorPeerAssesment.csv"
+        - "UTS-5_SkorPeerAssesment.htm"
 
 book:
     title: "Andrew Tedjapratama"
