@@ -1,1 +1,52 @@
 # UAS-3 My Innovations
+## Arsitektur Sistem Informasi Kesehatan Terdistribusi: Solusi Resilien untuk Skala Global
+
+Inovasi yang saya tawarkan berfokus pada pembangunan sistem backend yang mampu menangani masalah kesehatan global di daerah dengan infrastruktur terbatas. Mengingat sekitar 50% penduduk bumi tidak memiliki akses layanan kesehatan dasar, sistem ini dirancang dengan prinsip desentralisasi untuk menjamin ketersediaan data di titik pelayanan paling ujung.
+
+### 1. Optimasi Edge-AI dan Model Quantization
+
+Masalah utama di lapangan adalah ketergantungan pada koneksi cloud yang seringkali tidak stabil. Untuk mengatasi ini, saya mengusulkan penggunaan Edge-AI yang berjalan langsung di perangkat tenaga medis.
+
+- Model AI menggunakan teknik quantization dan pruning agar bisa berjalan pada hardware dengan resource rendah tanpa memakan banyak daya atau memori.
+
+- Algoritma CNN dioptimalkan untuk melakukan klasifikasi citra medis sederhana atau deteksi awal gejala penyakit menular secara lokal.
+
+- Trade-off yang muncul adalah sedikit penurunan akurasi demi latensi yang lebih rendah. Menurut saya, lebih baik memiliki sistem yang memberikan hasil 85% akurat secara instan di pelosok daripada 99% akurat tapi butuh koneksi internet yang tidak pernah ada.
+
+- Data hasil deteksi disimpan dalam basis data lokal seperti SQLite dan hanya akan melakukan sinkronisasi ke server pusat saat mendeteksi adanya koneksi internet melalui protokol yang ringan.
+
+### 2. Event-Driven Architecture untuk Logistik Medis
+
+Kematian balita akibat diare yang mencapai 297 ribu jiwa per tahun seringkali disebabkan oleh keterlambatan distribusi logistik. Saya mengusulkan arsitektur berbasis event untuk mengotomatisasi rantai pasok.
+
+- Menggunakan pesan asinkron untuk memastikan koordinasi stok antara klinik primer dan gudang pusat tetap berjalan meskipun ada gangguan jaringan.
+
+- Sistem menggunakan algoritma prediktif berbasis time-series untuk menghitung reorder point secara otomatis berdasarkan tren penyakit musiman dan data historis di wilayah tersebut.
+
+- Pemanfaatan API Gateway dengan strategi caching yang agresif untuk meminimalkan beban server saat terjadi lonjakan permintaan data di daerah rawan penyakit.
+
+- Dari sisi implementasi, ini soal bagaimana sistem bisa melakukan "graceful degradation", yaitu tetap berfungsi pada level minimum saat komponen lain sedang bermasalah.
+
+### 3. Integrasi Skor Risiko Aktuaria dan AI Finansial
+
+Terdapat 2 miliar orang yang menghadapi beban finansial berat akibat biaya kesehatan. Inovasi di sini adalah menggabungkan logika aktuaria dengan machine learning untuk sistem proteksi sosial.
+
+- Sistem melakukan scoring otomatis terhadap data ekonomi pasien untuk mengidentifikasi potensi biaya katastrofik sebelum pasien jatuh ke jurang kemiskinan.
+
+- Data tersebut dienkripsi dengan standar tinggi untuk menjaga privasi medis, namun tetap bisa diakses oleh pihak penyedia subsidi melalui mekanisme otorisasi yang ketat.
+
+- Yang menarik bagi saya adalah penggunaan analitik ini untuk menyeimbangkan beban subsidi pemerintah secara real-time, sehingga bantuan tidak salah sasaran.
+
+- Secara teknis, ini melibatkan pemrosesan batch data besar untuk melihat korelasi antara riwayat kesehatan dan stabilitas ekonomi rumah tangga di tingkat populasi.
+
+### 4. Strategi Deployment dan Keamanan Data
+
+Implementasi sistem ini tidak bisa dilakukan secara sekaligus. Saya mengusulkan pendekatan bertahap yang fokus pada stabilitas sistem di lingkungan yang keras.
+
+- Tahap awal fokus pada pembuatan RESTful API yang efisien dengan overhead kecil agar hemat bandwidth.
+
+- Implementasi sistem keamanan berbasis token yang punya masa berlaku fleksibel sesuai dengan kondisi lapangan dan profil risiko akses di daerah konflik.
+
+- Penggunaan containerization seperti Docker untuk memudahkan deployment di berbagai jenis server lokal yang tersedia di puskesmas atau klinik terpencil.
+
+- Bagi saya, inovasi sebenarnya bukan pada seberapa canggih bahasa pemrograman yang dipakai, tapi pada seberapa tahan sistem tersebut saat menghadapi kegagalan infrastruktur nyata di dunia yang sedang krisis.

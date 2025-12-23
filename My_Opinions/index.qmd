@@ -1,5 +1,32 @@
-## UAS-3 My Opinions
+# UAS-2 My Opinions
+## Transformasi Pendidikan Teknik di Era Kecerdasan Buatan: Dari Hafalan ke Penciptaan Nilai
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+### Krisis Model Pendidikan Konvensional
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+Pembelajaran ilmu rekayasa saat ini sedang menghadapi pergeseran paradigma yang sangat drastis. Menurut saya, model pembelajaran konvensional yang hanya menekankan pada penguasaan sintaks atau hafalan definisi sudah tidak lagi relevan. Problem utamanya adalah AI sekarang sudah sangat mahir dalam melakukan tugas-tugas logika formal dan komputasi yang jauh lebih cepat dari manusia.
+
+Jika ujian mahasiswa masih berkisar pada menjawab soal-soal yang bisa diselesaikan oleh Large Language Models dalam hitungan detik, maka nilai dari pendidikan itu sendiri akan hilang. Mahasiswa bisa saja menggunakan AI sebagai alat bantu tanpa benar-benar memahami logika di baliknya. Yang menarik di sini adalah bagaimana kita seharusnya bergeser dari sekadar menyelesaikan masalah teknis menuju kemampuan untuk memberikan nilai nyata bagi masyarakat.
+
+### Menggeser Fokus dari Bagaimana ke Mengapa
+
+Dalam konteks masalah kesehatan global yang saya bahas sebelumnya, pendidikan teknik tidak boleh hanya mengajarkan cara membuat kode yang efisien. Kita butuh lebih dari itu. Engineering bukan cuma soal teknis, tapi soal empati. Seringkali kita terlalu fokus pada teknis koding tapi lupa pada konteks manusia yang akan menggunakan sistem tersebut.
+
+Pendidikan masa depan harus melatih mahasiswa untuk menjadi sosok yang memiliki otoritas penuh atas teknologi yang mereka buat. AI seharusnya menjadi pengganda kekuatan, bukan pengganti pemikiran kritis. Menurut saya, kurikulum harus mulai mengintegrasikan pemahaman tentang dampak sosial dan ekonomi dari sebuah sistem informasi, sehingga kita tidak hanya membangun aplikasi yang keren secara teknis, tapi juga solutif secara kemanusiaan.
+
+### Ruang Kelas sebagai Miniatur Lingkungan Profesional
+
+Saya berpendapat bahwa ruang kelas harus bertransformasi menjadi lingkungan kerja yang nyata. Mahasiswa tidak boleh lagi hanya menjadi penerima materi yang pasif. Kita perlu didorong untuk memproduksi artefak pengetahuan yang memiliki nilai nyata, bukan sekadar mengerjakan tugas untuk mendapatkan nilai di atas kertas.
+
+- Penguasaan materi sebaiknya divalidasi melalui proyek nyata yang bisa dirasakan manfaatnya oleh orang lain, bukan melalui ujian pilihan ganda.
+
+- Fokus penilaian harus dialihkan pada proses berpikir, manajemen stres, dan kemampuan adaptasi terhadap teknologi baru.
+
+- Trade-off yang sering muncul adalah antara kecepatan belajar dan kedalaman pemahaman. AI bisa mempercepat proses, tapi kedalaman logika tetap harus dibangun melalui refleksi yang jujur.
+
+- Menurut saya, portofolio yang berisi jurnal reflektif dan bukti penyelesaian masalah jauh lebih berharga daripada transkrip nilai yang hanya berisi angka-angka tanpa cerita di baliknya.
+
+### Kesimpulan: Menjadi Engineer yang Thoughtful
+
+Pada akhirnya, tujuan akhir dari pendidikan teknik di era AI adalah membentuk manusia yang bijaksana dalam menggunakan alatnya. AI adalah instrumen yang sangat kuat, tapi tanpa arah yang jelas dari manusianya, teknologi tersebut bisa menjadi sia-sia atau bahkan merugikan.
+
+Bagi saya, menjadi seorang rekayasawan sistem informasi berarti memikul tanggung jawab moral untuk memastikan bahwa setiap baris kode yang kita tulis memiliki dampak positif. Kita harus berani melangkah keluar dari zona nyaman teknis dan mulai berpikir secara sistemik untuk menyelesaikan tantangan global seperti kemiskinan dan krisis kesehatan. Pendidikan yang berhasil adalah pendidikan yang mampu membuat mahasiswanya merasa bahwa mereka punya peran penting dalam menulis narasi masa depan umat manusia.

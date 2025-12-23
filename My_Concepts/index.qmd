@@ -1,6 +1,45 @@
 # UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
+## Arsitektur Distribusi Kesehatan: Solusi Sistem Informasi untuk 4.5 Miliar Penduduk
 
-Apa itu berkonsep? 
+### Pendahuluan: Fokus pada Masalah Kesehatan Global (Topik No. 7)
+Konsep  ini dirancang sebagai respons terhadap fakta bahwa saat ini sekitar 50% penduduk bumi (4.5 miliar orang) belum mendapatkan layanan kesehatan esensial secara penuh. Masalah kesehatan global bukan hanya soal penemuan obat baru, melainkan tantangan logistik dan sistem informasi agar akses menjadi merata. Dengan memanfaatkan teknologi di era AI, sistem ini bertujuan untuk memindahkan beban deteksi dini dari rumah sakit besar ke tingkat komunitas paling dasar.
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+---
+
+### Diagnostik Terdistribusi via Edge-AI
+Masalah utama di banyak negara berkembang adalah rasio tenaga medis yang sangat timpang dan fasilitas yang terbatas. Menurut saya, kita tidak bisa hanya mengandalkan pembangunan rumah sakit fisik yang memakan waktu lama.
+
+- Implementasi Teknis: Menggunakan model TinyML yang ringan untuk dijalankan pada smartphone spesifikasi rendah di daerah dengan konektivitas terbatas.
+
+- Fungsi Utama: Melakukan triage atau pemilahan gejala awal secara otomatis untuk penyakit yang seharusnya bisa dicegah atau diobati.
+
+- Trade-off: Yang menarik di sini yaitu adalah dilema antara akurasi dan portabilitas. Trade-off yang saya ambil adalah mengoptimalkan model agar bisa berjalan 100% offline di hardware murah, meskipun harus sedikit mengorbankan kedalaman neural network jika dibandingkan dengan model yang berjalan di cloud.
+
+### Dashboard Prediktif Logistik Obat Esensial
+Stagnansi kemajuan Universal Health Coverage (UHC) sejak 2015 sangat menunjukkan kegagalan dalam menjaga ketersediaan layanan dasar. Banyak klinik di daerah terpencil mengalami kekosongan stok obat pada saat yang krusial.
+- Sistem Dashboard: Membangun integrasi API antara data stok puskesmas dan gudang logistik pusat secara transparan.
+
+- Analisis Data: Sistem memprediksi lonjakan kebutuhan obat berdasarkan tren penyakit musiman, seperti diare yang mengakibatkan kematian 297 ribu balita setiap tahunnya.
+
+- Personal Voice: Problem di sini sering kali bukan karena stok obat tidak ada, tapi karena distribusi yang buta terhadap data lapangan. Dari sisi implementasi, ini adalah masalah sinkronisasi data yang harusnya bisa diselesaikan dengan sistem informasi yang lebih responsif.
+
+### Mitigasi Risiko Finansial bagi Pasien Rentan
+Biaya kesehatan yang tinggi tentunya menjadi faktor utama yang mendorong jutaan orang jatuh ke jurang kemiskinan setiap tahunnya. Saat ini, sekitar 2 miliar orang di dunia menghadapi beban finansial berat karena membayar pengobatan dari kantong sendiri.
+- Analisis Risiko: Mengingat minat saya di bidang aktuaria, saya mengusulkan modul penilaian risiko finansial untuk mengidentifikasi kelompok yang paling rentan terhadap biaya medis katastrofik.
+
+- Target Dampak: Sistem ini membantu pemerintah untuk melakukan intervensi subsidi secara tepat sasaran agar biaya kesehatan tidak menghancurkan ekonomi keluarga.
+
+- Realistic View: Saya sadar ini bukan solusi global yang instant juga. Implementasinya harus dilakukan bertahap, mulai dari digitalisasi data kesehatan primer sebelum melompat ke sistem asuransi mikro yang kompleks.
+
+---
+
+### Rencana Implementasi dan Tahapan
+
+- Fase 1: Digitalisasi data pasien di klinik primer pedesaan untuk membangun accuracy data dasar.
+- Fase 2: Deploy alat triage AI ringan pada smartphone tenaga medis guna mempercepat deteksi dini.
+- Fase 3: Integrasi sistem asuransi mikro dan subsidi tepat sasaran untuk melindungi pasien dari kemiskinan medis.
+
+---
+
+### Refleksi dan Kesimpulan
+Menurut saya, sebuah sistem informasi baru bisa disebut mahakarya jika ia mampu berfungsi di tengah keterbatasan lingkungan, bukan hanya di lingkungan lab yang ideal. AI sering kali dianggap sebagai teknologi elit, padahal manfaat terjujurnya adalah ketika ia mampu menjadi jembatan bagi 4.5 miliar orang yang selama ini terabaikan. Fokus saya jelas: teknologi harus bekerja untuk menutup celah akses, bukan sekadar menjadi tren inovasi tanpa dampak nyata pada kemanusiaan.
