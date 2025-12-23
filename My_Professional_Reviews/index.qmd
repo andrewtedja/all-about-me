@@ -1,2 +1,127 @@
-## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+# UAS-5 My Professional Reviews
+
+## 6.1 Identifikasi
+Nama Mahasiswa dan NIM: Andrew Tedjapratama (13523148)
+
+Nama Penilai: Andrew Tedjapratama, Self-Assessment
+
+---
+
+## 6.2 Tinjauan Umum
+Seluruh rangkaian UAS-1 sampai UAS-4 ini merupakan upaya saya untuk merancang sebuah solusi sistem informasi yang komprehensif terhadap masalah kesehatan global.
+
+UAS-1 membangun pondasi konseptual tentang pemerataan akses kesehatan melalui sistem terdistribusi.
+
+UAS-2 memberikan perspektif kritis mengenai bagaimana pendidikan teknik seharusnya berevolusi untuk menjawab tantangan tersebut.
+
+UAS-3 mendalami arsitektur teknis inovatif seperti Edge-AI dan event-driven system.
+
+UAS-4 menyatukan landasan teori dari bidang Computer Science dan Aktuaria untuk memperkuat validitas solusi yang ditawarkan.
+
+Secara keseluruhan, tugas ini mencerminkan integrasi antara kemampuan teknis rekayasa dengan empati terhadap isu kemanusiaan global.
+
+---
+
+## 6.3 Tinjauan Spesifik
+
+### 6.3.1 UAS-1 My Concepts
+Konten: Konsep arsitektur sistem informasi kesehatan primer yang fokus pada pemerataan akses bagi 4.5 miliar penduduk bumi menggunakan pendekatan sistem saraf digital.
+
+Penilaian (Rubrik Konsep):
+
+- Clarity: 5
+
+- Logic: 5
+
+- Validity: 5
+
+- Usefulness: 5
+
+Skor rata-rata: (5 + 5 + 5 + 5) / 4 = 5.00 / 5.00
+
+Saran: Konsep sudah sangat jelas dengan pembagian tiga lapisan inteligensi yang terstruktur. Penjelasan mengenai trade-off akurasi vs portabilitas memberikan dimensi realis pada konsep ini.
+
+---
+
+### 6.3.2 UAS-2 My Opinions
+Konten: Opini mengenai transformasi pendidikan Computer Science yang harus bergeser dari sekadar penguasaan sintaks menuju penciptaan nilai nyata di era AI.
+
+Penilaian (Rubrik Opini):
+
+- Compelling: 5
+
+- Informative: 5
+
+- Persuasive: 4
+
+- Engaging: 5
+
+Skor rata-rata: (5 + 5 + 4 + 5) / 4 = 4.75 / 5.00
+
+Saran: Argumen mengenai krisis model pendidikan konvensional sangat kuat dan relevan. Sisi persuasif bisa sedikit ditingkatkan dengan memberikan contoh konkret langkah kebijakan kurikulum yang lebih spesifik.
+
+---
+
+### 6.3.3 UAS-3 My Innovations
+Konten: Inovasi teknis pada implementasi Edge-AI, model quantization, dan arsitektur event-driven untuk mendukung logistik medis di daerah terpencil.
+
+Penilaian (Rubrik Konsep):
+
+- Clarity: 5
+
+- Logic: 4
+
+- Validity: 5
+
+- Usefulness: 5
+
+Skor rata-rata: (5 + 4 + 5 + 5) / 4 = 4.75 / 5.00
+
+Saran: Inovasi sangat teknis dan menunjukkan kapabilitas sebagai mahasiswa Computer Science. Sedikit catatan pada aspek logika mengenai pemeliharaan hardware jangka panjang di daerah konflik yang perlu dieksplorasi lebih lanjut.
+
+---
+
+### 6.3.4 UAS-4 My Knowledge
+Konten: Dasar pengetahuan yang mencakup teori Universal Health Coverage, TinyML, dan ekonomi kesehatan berbasis risiko aktuaria.
+
+Penilaian (Rubrik Konsep):
+
+- Clarity: 5
+
+- Logic: 5
+
+- Validity: 5
+
+- Usefulness: 5
+
+Skor rata-rata: (5 + 5 + 5 + 5) / 4 = 5.00 / 5.00
+
+Saran: Pengetahuan yang ditampilkan sangat luas dan lintas disiplin. Integrasi antara ilmu aktuaria dan manajemen risiko finansial memberikan bobot ilmiah yang kuat pada solusi kesehatan yang diusulkan.
+
+---
+
+## 6.4 Perhitungan Skor CPMK (Ringkasan)
+
+| UAS | Skor (dari 5) | Bobot CPMK | Kontribusi |
+|:---|:---:|:---:|:---:|
+| UAS-1 | 5.00 | 8 | (5.00 / 5) x 8 = 8.00 |
+| UAS-2 | 4.75 | 8 | (4.75 / 5) x 8 = 7.60 |
+| UAS-3 | 4.75 | 10 | (4.75 / 5) x 10 = 9.50 |
+| UAS-4 | 5.00 | 10 | (5.00 / 5) x 10 = 10.00 |
+| UAS-5 | 4.80 | 14 | (4.80 / 5) x 14 = 13.44 |
+| Total | | | 48.54 / 50 = 97.1% (A) |
+
+Link Peer Assesment Score:
+https://docs.google.com/spreadsheets/d/1BI6ejCpL5BTPPOFgN1XOKzX78VePjRBp96coMy96wQo/edit?usp=sharing
+
+---
+
+## 6.5 Kesimpulan Singkat
+Rangkaian tugas UAS ini telah berhasil mensinergikan berbagai domain ilmu yang saya pelajari untuk menjawab satu tantangan besar: krisis kesehatan global. Melalui pengerjaan ini, saya tidak hanya mengasah kemampuan teknis dalam merancang arsitektur sistem informasi, tetapi juga belajar untuk menempatkan nilai kemanusiaan sebagai pusat dari setiap inovasi teknologi. Hasil evaluasi menunjukkan konsistensi dalam kualitas narasi dan kedalaman teknis di seluruh bab yang dikerjakan.
+
+---
+
+Final Score: 97.1% (A) - Reflektif, teknis, dan berbasis data dengan integrasi ilmu aktuaria yang kuat.
+
+## Refleksi
+Proses penilaian diri ini membuat saya menyadari bahwa sebuah solusi rekayasa yang baik selalu melibatkan keseimbangan antara idealisme dan keterbatasan praktis di lapangan. Saya belajar bahwa peran seorang engineer sistem informasi di era AI bukan lagi sekadar menulis baris kode yang efisien, melainkan merancang ekosistem yang mampu memberdayakan manusia yang paling membutuhkan. Kejujuran dalam mengevaluasi kekurangan pada sisi logistik dan infrastruktur pada bab inovasi menjadi titik balik bagi saya untuk terus menyempurnakan konsep ini di masa depan.
